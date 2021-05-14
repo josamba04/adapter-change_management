@@ -140,7 +140,6 @@ function post(serviceNowTable, callback) {
 
 }
 
-
 /*
  * This section is used to test your project.
  * We will test both get() and post() functions.
