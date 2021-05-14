@@ -19,6 +19,10 @@ const validResponseRegex = /(2\d\d)/;
 // Use JSDoc to create a JSDoc data type for an IAP callback.
 // Call the new type iapCallback.
 // Notice iapCallback is a data-first callback.
+
+/**
+ * This is a [JSDoc comment]{@link http://usejsdoc.org/tags-description.html}.
+ * See http://usejsdoc.org/tags-description.html.
  *
  * @callback iapCallback
  * @description A [callback function]{@link
